@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1042355852307",
+    "firebase_url": "https://plantblog-28020.firebaseio.com",
+    "project_id": "plantblog-28020",
+    "storage_bucket": "plantblog-28020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042355852307:android:9d0e436235d4618b51dbe6",
+        "android_client_info": {
+          "package_name": "com.sunayana.plantblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042355852307-5461mbd0h16vor4761rfnpf53ojf3jeo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sunayana.plantblog",
+            "certificate_hash": "1290931063c9c2e7a5b81b4c86221091a9e4e175"
+          }
+        },
+        {
+          "client_id": "1042355852307-io0vtc8ig1jqu2vrf2rs69bkthli32ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsrhchICOhrxW0vaJNUUojHq48nRgX0fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042355852307-io0vtc8ig1jqu2vrf2rs69bkthli32ji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

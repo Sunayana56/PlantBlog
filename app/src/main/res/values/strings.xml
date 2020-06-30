@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PlantBlog</string>
+    <string name="login_logo_desc">login page logo</string>
+    <string name="email_hint">Your email...</string>
+    <string name="pw_hint">Password...</string>
+    <string name="login_btn_txt">LOGIN TO ACCOUNT</string>
+    <string name="login_reg_btn_txt">Need a new account</string>
+    <string name="login_btn_text">Login to account</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_settings_text">Account Settings</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="reg_btn_text">Create new account</string>
+    <string name="reg_login_btn_text">Already have an account?</string>
+    <string name="cnf_pw_hint">Confirm password</string>
+    <string name="setup_name_hint">Your name...</string>
+    <string name="setup_account_name_text">Save Account Settings</string>
+    <string name="post_desc_hint">Add description...</string>
+    <string name="new_post_btn_txt">Post Blog</string>
+</resources>
